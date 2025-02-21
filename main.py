@@ -8,5 +8,5 @@ app = Client("7828276514:AAG5JojoEFTj2o4Js9sqXgigEe2vVMR1MmA", api_id='13485297'
 async def delete_edited_message(Client, message):
         await message.delete()  # Deletes the edited message
 
-if name == "main":
+if __name__== "main":
     app.run()
