@@ -1,4 +1,4 @@
-import tgcrypto
+
 from pyrogram import Client, filters
 
 # Replace 'my_bot' with your bot's name, and provide your API ID and hash
